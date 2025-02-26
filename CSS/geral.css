@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Minecraftia;
+    color: aliceblue;
+}
+
+/* css do texte em si */
+body{
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1, h2, h3 {
+    color: #fff;
+    font-family: Minecraftia, sans-serif, 'Roboto';
+    font-optical-sizing: auto;
+    font-weight: bold;
+}
+.titulo{
+    font-size: 2em;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+/* css do coração:*/
+.coracao {
+    padding: 10px;
+    width: 4%;
+    bottom: auto;
+}
+
+.linkcoracao{
+    box-align: right;
+    padding: 8px; 
+    width: 4%;
+    bottom: auto;
+}
+
+
+footer{
+    height: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

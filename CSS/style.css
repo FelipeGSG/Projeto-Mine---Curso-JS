@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+/* css do texte em si */
+body{
+    background-image: url(../img/fundo.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1, h2, h3 {
+    color: #fff;
+    font-family: Minecraftia, sans-serif;
+    font-optical-sizing: auto;
+  }
+h1, h2{
+    font-style: italic;
+ }
+h1 {
+    font-size: 50px;
+}
+
+
+/* css das imagens: */
+.notch {
+    position: relative;
+    right: 45px;
+    top: 50px;
+    height: 253px;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+    .notch:hover {
+        scale: 1.05;
+        /* height: 263px; */
+    }
+    .imgNoMo {
+        text-align: center;
+        height: 253px;
+        padding: 10px;
+    }
+
+.logo {
+    position: relative;
+    left: 45px;
+    height: 253px;
+    top: 50px;
+    border-radius: 15px;
+    transition: 0.5s;
+    }
+    .logo:hover {
+        scale: 1.05;
+        /* height: 263px; */
+    }
+.logodomine {
+    height: 350px;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+
+

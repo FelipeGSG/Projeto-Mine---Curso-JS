@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/pag4Fundo.png);
+    /* backdrop-filter: blur(10px) brightness(0.8); */
+    min-height: 100vh;
+}
+.texto{
+    max-width: 50%;
+}
+.ilustracoes{
+    margin: 40px;
+    height: 350px;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+    .ilustracoes:hover{
+        scale: 1.07;
+    }
