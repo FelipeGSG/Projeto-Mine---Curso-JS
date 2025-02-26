@@ -1,3 +1,3 @@
 # Projeto-Minecraft-Finalizado
 
-https://bbfg113.github.io/Projeto-Minecraft-Finalizado/
+https://felipegsg.github.io/Projeto-Mine---Curso-JS/
